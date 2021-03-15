@@ -110,4 +110,4 @@ jobs:
         message: >
           <b>New PeremenFM for android released (${{ steps.get_version.outputs.version }}):</b><br>
           <a href='https://play.google.com/apps/internaltest/4699749469240426147'>Google Play</a><br>
-          <a href='https://github.com/rusmonster/peremenfm/releases/tag/${{ steps.get_version.outputs.version }'>Github Release</a>"
+          <a href='https://github.com/rusmonster/peremenfm/releases/tag/${{ steps.get_version.outputs.version }'>Github Release</a>
